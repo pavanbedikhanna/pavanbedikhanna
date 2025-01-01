@@ -17,7 +17,6 @@ I am a passionate **Software Engineer** with a strong background in **Data Analy
 - **Other Tools**: Docker, Jenkins, REST APIs, WebSockets, Jira, Trello
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanbedikhanna&show_icons=true&hide_title=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbedikhanna&layout=compact&hide_title=true&theme=radical)
 
 ## 🚀 Projects  
